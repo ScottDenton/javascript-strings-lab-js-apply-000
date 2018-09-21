@@ -1,9 +1,8 @@
 
 
 function greeting(){
-  var greeting = ("Hello, everybody!");
-  return greeting
-}
+ return ("Hello, everybody!");
+  }
 
 function greetSpecialGuest(name){
   return ("Hello, " + name + "!");
