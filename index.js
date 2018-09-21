@@ -5,9 +5,9 @@ function greeting(){
 }
 
 function greetSpecialGuest(name){
-  return (`Hello, ${name}!`)
+  return ("Hello, " + name + "!")
 }
 
 function conversation(topic){
-  return (`Lets talk about ${topic}.`)
+  return ("Lets talk about " + topic + ".")
 }
